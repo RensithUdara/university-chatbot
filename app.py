@@ -4,7 +4,6 @@ from src.chatbot import answer_query
 st.title("Sri Lankan University Chatbot")
 st.write("Ask questions in Sinhala, Tamil, or English")
 
-# Input box with Unicode support
 query = st.text_input("Your Question:", placeholder="Type your question here...")
 
 if st.button("Submit"):
@@ -16,7 +15,6 @@ if st.button("Submit"):
     else:
         st.error("Please enter a question.")
 
-# Add CSS for Sinhala/Tamil font support
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Sinhala&family=Noto+Sans+Tamil&display=swap');

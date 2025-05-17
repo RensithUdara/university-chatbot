@@ -1,0 +1,2052 @@
+Chunk 0:
+2 
+  
+ 
+ 
+ 
+   
+ 
+Bachelor of  
+Software Engineering  
+Honours  
+Student Guidebook 2024/2025 
+ 
+Department of Electrical and Computer Engineering  
+Faculty of Engineering Technology  
+The Open University of Sri Lanka
+
+Chunk 1:
+3 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“The mission of the Faculty of Engineering Technology is to provide lifelong learning 
+opportunities in Engineering and Technology for all to meet industrial and social 
+needs through open and distance learning, and support research & scholarship by 
+efficient & sustainable use of resource s.”
+
+Chunk 2:
+4 
+ Message from the Dean  
+It gives me great pleasure to warmly welcome you to 
+our industry -oriented degree programme in Software 
+Engineering. The Department of Electrical and 
+Computer Engineering at the Faculty of Engineering 
+Technology, introduced Bac helor of Software 
+Engineering Honours (BSEHons) degree programme 
+in 2009. We are pleased to announce the 15th intake 
+for the academic year 2024/2025. BSE Hons  degree 
+programme is the first of its kind to be offered in Sri 
+Lanka. We increased the intake in 2 021, and the 
+Centre for Information Technology Education Services (CITES) is now in charge of 
+delivering the programme. Currently, there are over 2000 students at levels 3 to 6 in 
+the programme.  
+The programme was developed to meet industry demands and is c ompliant 
+with IEEE/ACM curriculum guidelines, ensuring that it meets international 
+standards. Currently, our graduates are employed globally in various capacities. One
+
+Chunk 3:
+standards. Currently, our graduates are employed globally in various capacities. One 
+of the key benefits of pursuing a degree programme at the Open University of Sri 
+Lanka ( OUSL), is the ability to study while working, which offers a industry exposure 
+to inhouse learning. This type of learning is a hallmark of our delivery method – Open 
+and Distance Learning (ODL). You can always count on our committed academic and 
+supportive  staff to assist you in achieving your goal of obtaining a degree in Software 
+Engineering.  
+During your studies, you will engage in a variety of activities such as, 
+assignments, mini -projects, case studies, etc., all of which, if completed on time, will 
+allow you to graduate in four years. You will receive easily understood, well -written 
+course materials in the first two years to support your learning process. Additionally, 
+a well -designed Learning Management System (LMS) facilitates the delivery of all
+
+Chunk 4:
+a well -designed Learning Management System (LMS) facilitates the delivery of all 
+courses in the programme. Another benefit of pursuing a degree at OUSL is that you 
+won't need to travel frequently to the main campus at Nawala, thanks to its well -
+established island -wide network where an identified set of activities will be conducted 
+at regi onal and study centres.  
+Along with working towards your degree, you also have the opportunity to 
+obtain a Higher Diploma in Software Engineering, an intermediate credential that 
+enable you to continue your education while finding an appropriate industry 
+placement. All these benefits are offered at an affordable rate that you will not find 
+anywhere else.  
+During your studies, you can also participate in extracurricular activities. This 
+is your chance to brighten your future at OUSL and have an enriching stud ent-life. 
+ 
+Dr. L.S.K. Udugama  
+Dean, Faculty of Engineering Technology
+
+Chunk 5:
+5
+
+Chunk 6:
+6 
+ Important information  
+Registration for the Academic Year 20 24/2025 
+ 
+Application period  :  01 Sept , 202 4 to 05 Oct, 202 4 
+Application fee  :  Rs. 750  
+Awareness  sessions  :  12 Sept. @ 2.00 pm Onsite, Colombo Regional Centre  
+Sept  8@7pm, Sept . 27 @7 pm online ,  
+ (Links to join  the on -line sessions  are given in the web page)  
+ 
+Exemption application date :  24 Oct, 202 4 
+ 
+Selection Test date :  20 Oct, 2024  
+Time       : 9am -11am    
+Venue     : at OUSL Regional Centres  and Study  Centres    
+ 
+Time schedule for student registration (Tentative)  
+Bachelor of Software Engineering Honours  
+Type of Registration  Centres  Dates  
+New Registration  All Regional Centres &  
+All Study Centres  17,18,19 Dec 2024  
+Re-Registration  All Regional Centres &  
+All Study Centres  15,18,19,20 Mar 2025  
+Add / Drop Courses  All Regional Centres &  
+All Study Centres  22 April 2025   
+ 
+Drop Courses only  All Regional Centres &  
+All Study Centres  6 May 2025
+
+Chunk 7:
+7 
+ Important Dates (Tentative)  
+Activity  Centres  Date  
+Commencement of StART@OUSL  At all Regional Centres  and  
+On-line Jan 2025 
+Commencement of Academic 
+Activities     
+25 March  2025 
+Last date for requesting exemption 
+for entry qualification   24 October 2025  
+Last date for claiming approved 
+exemptions  Colombo Regional Centre  20 May  2025 
+ 
+Last date for obtaining 
+studentship  All Regional Centres & All 
+Study Centres   
+ 01 Aug 2025  
+Last date for the applying for the 
+Award of the Degree, Higher 
+Diploma  online  Within one month of 
+Final Exam Results 
+released. Exact date will 
+be announced in the 
+web page of Faculty of 
+Engineering 
+Technology  
+  
+On-line submission of application forms  
+Applicants should submit applications on -line via the university website  
+(https://reginfo.ou.ac.lk/applyonline/) . Relevant payment could be made online 
+through Debit/Credit cards or at any Regional or a Study Centre  of OUSL . 
+ 
+Exemptions
+
+Chunk 8:
+through Debit/Credit cards or at any Regional or a Study Centre  of OUSL . 
+ 
+Exemptions  
+A list of qualifica tions presently recognised by the OUSL for granting exemptions is 
+given in Appendix 1 of this Guidebook. If you possess any other  qualification , which 
+you think would entitle you to obtain exemptions for any course(s), you should apply 
+for its evaluation, using the prescribed  form  obtainable from  the Faculty of 
+Engineering Technology website.
+
+Chunk 9:
+8 
+ Any Qualification claimed in lieu of A/L must be equivalent to SLQF Level 2, two -year full -
+time course.  
+University Holidays  
+Thai Pongal Day  
+Independence Day  
+Sinhala and Tamil New Year Day  
+May Day  
+Vesak Poya Day  
+Holy Prophet’s Birthday  
+Christmas Day  
+ 
+Other than on University holidays, activities may be held on any other day of the 
+year.
+
+Chunk 10:
+9
+
+Chunk 11:
+10 
+ Contents  
+Message from the Dean  4 
+Important information  6 
+Time schedule for student registration (Tentative)  6 
+University Holidays  8 
+Contents  10 
+About the University  12 
+The Open University of Sri Lanka  12 
+Faculty of Engineering Technology  12 
+Department of Electrical and Computer Engineering  12 
+Why pursue a BSEHons degree ? Error! Bookmark not defined.  
+About programme design  14 
+Study Programme Educational Outcomes  15 
+Duration  15 
+Who should apply?  15 
+How to apply  15 
+Selection criteria  16 
+Registration for BSEHons  16 
+Cour se Code  18 
+Departmental Codes  19 
+Category of Courses  19 
+Course Levels  19 
+Credit Rating  20 
+Courses in BSEHons  20 
+Prerequisites  25 
+Industrial placements  25 
+Study system  26 
+Course Activities  27 
+Assessment  27 
+Awarding of the Degree  28 
+Grade Point Average (GPA)  28 
+Student services  31 
+Student Affairs Division  31 
+Counselling  32
+
+Chunk 12:
+11 
+ Computer Laboratories in Regional and Study Centres  32 
+Library Facilities  33 
+Temporary Residential Facilities (TRF)  33 
+Appendix 1  Error! Bookmark not defined.  
+Exemptions applicable for Bachelor of Software Engineering Study Programme  34 
+Appendix 2  37 
+Appendix 3  40 
+Appendix 4  42
+
+Chunk 13:
+12 
+ About the University  
+The Open University of Sri Lanka  
+The Open University of Sri Lanka (OUSL) is 
+the only recognised university in Sri Lanka 
+where students can pursue further education by 
+distance education techniques in keeping with 
+the philosophy of Open and Distance Learning.  
+The OUSL has the same legal and academic 
+status as the other na tional universities in Sri 
+Lanka. It was set up by the Government of Sri 
+Lanka under the Universities Act No. 16 of 
+1978, for the purpose of providing higher 
+educational opportunities to working adults.  
+The OUSL consists of six academic faculties:  
+● Faculty  of Engineering Technology  
+● Faculty of Natural Sciences  
+● Faculty of Humanities and Social 
+Sciences  
+● Faculty of Education  
+● Faculty of Health Sciences  
+● Faculty of Management Studies  
+There are nine Regional Centres in 
+Anuradhapura, Badulla, Batticaloa, Colombo, 
+Jaffna, Kandy, Kurunegala, Matara, and 
+Rathnapura and 1 9 Study Centres spread
+
+Chunk 14:
+Jaffna, Kandy, Kurunegala, Matara, and 
+Rathnapura and 1 9 Study Centres spread 
+throughout the country.  
+Faculty of Engineering Technology  
+The Faculty of Engineering Technology is a 
+pioneer among all academic institutions in the 
+world, in the delivery of unde rgraduate 
+programmes in Engineering  in distance mode .  
+The Faculty of Engineering Technology offers 
+its own programmes of study leading to Certificates, Advanced Certificates, Higher 
+Diplomas, Degrees, Postgraduate Diplomas and 
+Degrees in different special isations.  
+The faculty  consists of six academic 
+departments: Agricultural and Plantation 
+Engineering, Civil Engineering, Electrical and 
+Computer Engineering, Mathematics and 
+Philosophy of Engineering, Mechanical 
+Engineering, and Textile and Apparel 
+Technology.  
+The faculty  also has a multi -disciplinary 
+Engineering Research Unit (ERU) dedicated to 
+enhancing research in the faculty . 
+Department of Electrical and 
+Computer Engineering
+
+Chunk 15:
+enhancing research in the faculty . 
+Department of Electrical and 
+Computer Engineering  
+The Department of Electrical and Computer 
+Engineering offers the Bachelor of Software 
+Engineering Hon ours (BSEHons) degree 
+programme. In addition to BSEHons, it 
+conducts study programmes leading to the 
+award of Higher Diploma in Technology, 
+Bachelor of Science Honours in Engineering 
+and research degrees in three specialisations: 
+Computer Engineering, Elec trical Engineering, 
+and Electronic and Communication 
+Engineering. The main focus of the Department 
+is to provide a flexible curriculum in 
+fundamental and advanced topics in the above 
+specialisations for producing well qualified , 
+workforce -ready  graduates prepared  to 
+overcome national as well as international 
+challenges.  The department will be offering a 
+Masters programme and a MSc programme in 
+Data Science  from 2025 .
+
+Chunk 16:
+13 
+  
+Every year the Department produces a large 
+number of well qualified graduates. Our past 
+graduates are employed by both the government 
+and private sector organisations as well as 
+international companies locally and abroad. 
+Many of them occupy top level position s in 
+their respective fields. Undergraduate students 
+have published research papers i n international 
+forums and journals and have brought value and 
+credit to the Department of Electrical & 
+Computer Engineering as well as to the OUSL. 
+Students have won several awards for their 
+engineering projects in competitions organised 
+by IESL, SLAAS an d other universities  often 
+competing against students from engineering 
+faculties of other universities and higher 
+educational institutes . They have also won first 
+place in several international competitions.  
+The Department is served by well qualified 
+dedicated academic and non -academic staff. 
+The Centre for IT Education Service s (CITES)
+
+Chunk 17:
+dedicated academic and non -academic staff. 
+The Centre for IT Education Service s (CITES) 
+is delivering the BSEHons programme under 
+the guidance of the Department.  
+ 
+Centre for IT Education Services 
+(CITES)  
+The Centre for Information Technology 
+Education Services was established in 2021 to 
+facilitate a large intake of students for several 
+computing degrees and administer the delivery 
+of courses offered by different Faculties in 
+OUSL. The Centre was establishe d with seed 
+funding from AHEAD until permanent 
+facilities were put in place .  The CITES facilitates the delivery of courses in 
+Bachelor of Software Engineering Honours 
+degree programme . CITES functions as a 
+facilitator between the students and staff 
+involv ed in delivery of BSEHons degree and the 
+university . 
+ 
+Bachelor of Software Engineering 
+Honours (BSE Hons ) Programme  
+We are proud to announce that the Bachelor of 
+Software Engineering programme of the OUSL
+
+Chunk 18:
+We are proud to announce that the Bachelor of 
+Software Engineering programme of the OUSL 
+is the first -ever UGC approved, industry -
+oriented software engineering programme 
+offered by a local university.  
+Software Engineering has become one of the 
+major computing disciplines today. In the early 
+days, it was a discipline within Computer 
+Science. Over the years it has evolved to what 
+it is today an d gained prominence as the 
+foundation of all software systems. The Joint 
+Task Force of The IEEE Computer Society and 
+Association for Computing Machinery (ACM), 
+after several years of research, has developed 
+guidelines for such degrees, and today these 
+guidelines are used worldwide for developing 
+Software Engineering degree programmes.  
+Software Engineering is the discipline where 
+you learn to design, develop and maintain 
+software systems that are reliable and efficient 
+while satisfying the requirements of th e 
+customers. Software Engineers usually solve
+
+Chunk 19:
+while satisfying the requirements of th e 
+customers. Software Engineers usually solve 
+problems for customers in different domains 
+outside software engineering – engineering, 
+natural science, social science, finance, 
+business and other similar fields.
+
+Chunk 20:
+14 
+ The primary focus of the programme is to 
+produce well qualified , industry -ready 
+graduates - Software Engineers - to work in the 
+software industry. To this end, the programme 
+contains a significant number  of practical 
+components and provides students the 
+opportunity to work alongside software 
+industr y professionals.  
+Why pursue a BSEHons degree ? 
+According to recent industry surveys, there is a 
+huge demand for IT specialists in Sri Lanka and 
+in the rest of the world. Software engineering 
+has become a major recruitment criterion  in 
+today’s software indu stry. Hence having such 
+an academic qualification will make your future 
+in this industry much brighter. At OUSL, a 
+reputed National University in Sri Lanka, you 
+have an excellent opportunity to earn a well -
+recognised degree that is well suited for the 
+software industry. After successful completion 
+of the BSEHons degree, you can work either in 
+the software industry or in a division of an
+
+Chunk 21:
+of the BSEHons degree, you can work either in 
+the software industry or in a division of an 
+institution where design, development and 
+maintenance of software are undertaken.  
+About programme design  
+In developing this programme,  we have 
+followed the guidelines provided by the Joint 
+Task Force formulated by two leading computer 
+associations in the world – IEEE Computer 
+Society and ACM. In addition, we have 
+considered the demand and expectations of the 
+IT sector in Sri Lanka. While developing the 
+curriculum and the courses in the programme, 
+we have had the participation and untiring 
+efforts of professionals from reputed software companies and academics qualified in the 
+software engineering field.  The cur riculum is 
+continuously updated considering prevailing 
+software industry requirements as well as 
+embedding new developments in the discipline 
+of software engineering. Next major curriculum 
+revision  will be effective from the academic 
+year 2025/2026.
+
+Chunk 22:
+revision  will be effective from the academic 
+year 2025/2026.  
+On the  other hand, it has been recognised that 
+while engaged in studies, working alongside 
+software professionals is essential in order to 
+become a good software engineering graduate. 
+To achieve this objective, students have to work 
+in the software industry. Acc ordingly, the Sri 
+Lanka Association of Software and Service 
+Companies (SLASSCOM) facilitates students 
+to secure placements in the software industry. 
+The SLASSCOM acts as the catalyst of growth 
+for the Sri Lankan IT and BPO industry by 
+facilitating trade an d business, propagation of 
+education and employment, encouragement of 
+research and innovation.  
+BSEHons is not a fully online programme. 
+Many on-site activities  and workshops will be 
+done though  the day schools and lab practice 
+sessions are done online . Most of the lab tests 
+will be done on -site. Continuous Assessment 
+Tests and Final examinations  will be done on-
+
+Chunk 23:
+will be done on -site. Continuous Assessment 
+Tests and Final examinations  will be done on-
+site at all regional centres  and selected study 
+centres . 
+A student who does not have a laptop/PC must 
+come to the registered OUSL centre and do the 
+lab work and lab tests (Centres are open from 
+Tuesday to Saturday  from 9am to 4pm).
+
+Chunk 24:
+15 
+ Study Programme Educational 
+Outcomes  
+To produce competent Software Engineers;  
+● With up -to-date knowledge and 
+expertise, and acquired ingenuity to 
+address software engineering problems 
+with a holistic  approach with due 
+consideration to the environment  and 
+society.  
+● With inspiration to be leaders in the 
+advancement of their specialty areas 
+by engaging in continuous 
+professional development and 
+research.  
+Duration  
+This is a 4 -year specialised degree in software 
+engineering. Maximum number of years a 
+student can take to complete the degree is 12 
+years.  
+The Study Programme will be delivered in 2 
+Semesters and the Final examination will be 
+held at the end of each Semester. However, 
+some courses may span across two Semesters 
+and the Final examination will be held at the end 
+of the second semester in each year.  
+Who should apply?  
+This programme is designed to produce 
+qualified graduates for the software industry
+
+Chunk 25:
+This programme is designed to produce 
+qualified graduates for the software industry 
+and for any other sector where the software 
+design, development and maintenance of 
+software systems are carried out. If you are 
+willing to work as a software enginee r in an 
+institution where the development and 
+maintenance of software are undertaken, the BSEHons is the degree programme you are 
+looking for.  
+Anyone who possesses the following minimum 
+entry qualifications can apply for the Bachelor 
+of Software Engineerin g Honours degree 
+programme.  
+● Obtained three passes in General 
+Certificate of Education (Advanced 
+Level) in any 3 subjects (in any number 
+of sittings ), excluding General English 
+and General Information Technology 
+subjects OR 
+● Obtained “C” passes in any 3 subj ects in 
+Cambridge/Edexcel Advanced Level 
+examination OR 
+● Passes in any three foundation subjects 
+of OUSL or obtained an Advanced 
+certificate offered by OUSL OR
+
+Chunk 26:
+of OUSL or obtained an Advanced 
+certificate offered by OUSL OR 
+● Any other qualification acceptable to the 
+Senate  
+For any other qualification, you must apply with 
+all supporting documents before the exemption 
+deadline. (Any other Qualification claimed in 
+lieu of A/L must be equivalent to GCE (A/L) 
+and acceptable to the University)  
+ 
+How to apply  
+The online application is available on the main 
+webpage of the university  
+(https://reginfo.ou.ac.lk/applyonline/ ).  You 
+have to submit the  completed application 
+online . In order to facilitate filling of the 
+application, compu ter facilities are provided at 
+all centres where registration is done.
+
+Chunk 27:
+16 
+ If you have prior educational qualifications 
+which are not listed in the Appendix 1 , you 
+can apply for an evaluation of your 
+qualifications using the prescribed form 
+(Application for E valuation of Qualifications 
+for Exemptions) downloaded from the faculty  
+web page . The evaluation form and the 
+detailed documents  should be sent to the 
+Programme Coordinator as mentioned in the 
+form well before the application closing date . 
+After this evaluation the faculty will decide 
+whether your qualifications can be considered 
+for granting exemptions.  
+ 
+After application submission is closed , the 
+Selection Test will be held on 2 0th October 2024 
+from 9am -11am at Regional and Study Centres  
+of OUSL. If any sudden changes take place with 
+regard to the selection test such changes will be 
+notified in the webpage of Faculty of 
+Engineering Technology  
+(https://ou.ac.lk/bsehons/ ).  Y ou are required 
+to visit the webpage regularly.  In the online
+
+Chunk 28:
+(https://ou.ac.lk/bsehons/ ).  Y ou are required 
+to visit the webpage regularly.  In the online 
+application form you must provide a correct and 
+active email address and a telephone number for 
+further communication.     
+ 
+Selection criteria  
+You must pass the  selection test in order to 
+become eligible to register for the BSEHons 
+programme. The Selection Test will be held at 
+the Regional  and Study Centres  (RCs/SCs) of 
+the Open University.  
+Those who pass the selection test, will be 
+officially informed by email and called for 
+registration. The final list of selected candidates will also be published in OUSL main webpage 
+under selection test results  
+Registration for BSEHons  
+When you are selec ted for the BSEHons 
+programme you will be called for registration at 
+RCs/SCs of OUSL. You will receive a voucher 
+for the payment of course  fees along with other 
+fees and payment information. Payment receipt, 
+along with your original certificates, should be
+
+Chunk 29:
+fees and payment information. Payment receipt, 
+along with your original certificates, should be  
+brought to the counselling desk at the OUSL on 
+the day of the registration. You will then be 
+offered courses according to the qualifications 
+you already have.  
+After registration an official email address will 
+be generated and sent to your personal email 
+address.  You must activate the given account  
+and use it for all future communication with the 
+university . 
+ 
+You will also get information as to how to 
+create a Microsoft Teams account. Most of the 
+Day schools will be conducted via Microsoft 
+Teams  or via Zoom . 
+The academic year of the programme will start 
+on 25th March  February 202 5. Empowering for 
+Independent Learning (EfIL ), a course 
+conducted by the OUSL to teach you how to 
+study independently in Open and Distance 
+Learning mode  and Elementary Mathematics 
+for Computing  will start by 4th January  2025.  
+All students who have not passed Combine d
+
+Chunk 30:
+for Computing  will start by 4th January  2025.  
+All students who have not passed Combine d 
+Mathematics at GCE A/L will have to  register 
+and pass Elementary Mathematics for 
+Computing (MHZ2250) before registering to
+
+Chunk 31:
+17 
+ other Mathematics course in the degree 
+programme.  
+Another short program  on ICT Challenges 
+given in Future Careers Bridge web portal by 
+SLASSCOM to identify promising st udents 
+who may get many benefits from the IT 
+industry, will also start at the same time.    
+English for Academic Purposes (EAP), a 
+separate course offered by the Department of 
+English Language Teaching (DELT) will start 
+by January 202 5. A Grading test will be 
+conducted prior to the commencement of the 
+course to group the students to classes based on 
+performance.  
+You will be added to EfIL and Elementary 
+Mathematics for Computing  LMS pages as 
+soon as you register . You have to login and 
+choo se a group  to participate the activities.  
+Activity schedules for EfIL and Maths course  
+will be given in the respective LMS  page .  
+Fees  
+Students have to pay course fees as per below 
+stated.  
+● Registration fee – Rs. 500/= 
+● Facilities fee – Rs. 2500/=, and
+
+Chunk 32:
+stated.  
+● Registration fee – Rs. 500/= 
+● Facilities fee – Rs. 2500/=, and  
+● Library Facilities fee – Rs. 100/=.  
+● Per Credit fee – Rs. 4190/= 
+● Payment for the EAP course only 
+(course to be completed before the 
+academic year): Rs.5500/=  
+ 
+Fees and visa requirements for foreign 
+students: Please contact the International 
+Relations Unit.  
+Tel: +011942854111, 0112881000 Ext -1145  Email: ird@ou.ac.lk    
+  https://ou.ac.lk/ircontactus/  
+ 
+*International students who are planning 
+to enrol in the degree programme must  
+contact the International Relations Unit 
+of OUSL before applying online.  
+ 
+Payment  
+It is recommended for a new student to offer 
+30 credits in the First Year.  
+Fee for First year will be 30* 4190  + 
+500+2500+100 = 12 8,800 LKR  
+Payment can be made as two instalments 
+where the first instalment is 60% of the 
+course fee and registration, facilities and 
+library fee.  
+ 
+First instalment will be (if you register  for 30
+
+Chunk 33:
+library fee.  
+ 
+First instalment will be (if you register  for 30 
+credits) = 30* 4190 *0.6 + 3100 = 7 8,520 
+LKR  
+Voucher for the Second instalment will be 
+emailed or sent via SMS by middle of the 
+year.  
+ 
+Add-Drop of courses  
+Students can change the registered courses 
+during the Add -Drop period, which is 
+generally after one month of the First 
+Semester.  
+ 
+If you do not drop a course that you are not 
+intending to complete within the year or do 
+not obtain sufficient marks for continuous 
+assessments of the course, then you will have 
+to pay the full course fee for that course when 
+you are registering in the next academic year .
+
+Chunk 34:
+18 
+ That particular course  will be marked as a 
+repeat course and you will only get a C grade 
+in the following year when you  pay and 
+register  for the course again.  
+ 
+Approximately 2 months after Academic  
+activities start, a Drop date will be given when 
+you will be able to drop the course without 
+affecting the grade. The course fee will not get 
+released for the courses that are dropped by 
+‘Drop Date’.  
+ 
+Withdrawing from the Programme  
+Students who withdraw  from the programme 
+before registration (before issuing the record 
+book) will be paid the total amount after 
+deduction of Rs.1000 for administration cost.  
+ 
+Students who withdraw  from the programme 
+after registration and before the add/drop  will 
+be able to ge t the 90% of the course fee (after 
+deduction of 10% for administration cost).  
+ 
+Awards/Scholarships/ Bursary  
+The Open University grants four types of 
+scholarships: Mahapola, University bursary, 
+Enrolment bursary and Enhancement bursary.
+
+Chunk 35:
+scholarships: Mahapola, University bursary, 
+Enrolment bursary and Enhancement bursary. 
+Please refer the OUS L website for details  
+https://ou.ac.lk/scholarships/  
+ 
+Loan Schemes  
+Students registered with The Open University 
+can apply for the laptop loan given for students 
+by the People’s Bank .  More information is available under the Ministry of Higher 
+education web site ( https://www.mohe.gov.lk/ ).  
+Loans to pay the course fee is available from 
+People’s Bank and Commercial Bank 
+(https://ou.ac.lk/educational -loans/) . 
+ 
+Courses  
+The Programme of study consists of a 
+combination of taught courses and other 
+requirements such as industrial placement. You 
+are guided at registration to select a set of 
+courses that is optimal for you. To register for a 
+particular course, you need to fulf il given 
+prerequisites for that course either by gaining 
+exemptions or by successful completion.  
+Course Code  
+Each course has a course title and a unique 
+course code.
+
+Chunk 36:
+Course Code  
+Each course has a course title and a unique 
+course code.  
+The letters and numbers denoting the 
+Departments, Categories, Levels, and Credit 
+Rating make up the code of a course. For 
+example, a course having the code EEX3467 
+provides the following information:
+
+Chunk 37:
+19 
+  E E X 3 4 6 7  
+Department   
+Category   
+Level   
+Credit rating   
+Serial number   
+ 
+Accordingly, this particular course  is offered by 
+the Department of Electrical and Computer 
+Engineering. It is an Engineering (X) category 
+course at level 3 with a credit value of four (4) 
+The serial number of the course is 67.  
+Departmental Codes  
+The first two letters of the course codes indicate 
+the department offering the particular course. 
+The letters allocated for some departments of 
+the Faculty of Engineering are as follows  
+ 
+The code VT denotes a  virtual course . These 
+are not courses that you can enrol in, but, when 
+you possess qualifications for which you cannot 
+be granted an exemption from an existing 
+course, you gain credits with appropriate 
+category, and level.  Category of Courses  
+Courses and other requirements fall into di stinct 
+Course Categories  with specific alphabetical 
+letters denoting them:  
+ 
+Course Levels
+
+Chunk 38:
+Course Categories  with specific alphabetical 
+letters denoting them:  
+ 
+Course Levels  
+Each course is also assigned a Level , between 
+three (3) and six (6). The level indicates the 
+relative complexity and advancement of the 
+course content. Level 3 indicates first level in 
+the undergraduate programme while Level 6 
+denotes the highest level in the undergraduate 
+programme .  Department  Code   Department  Code  
+Electrical 
+and 
+Computer  EE  Mathematics 
+and 
+Philosophy  MH 
+Agriculture 
+& Plantation  AG  Mechanical 
+Engineering  DM 
+Civil  
+Engineering  CV  Textile & 
+Apparel 
+Technology  TA 
+Legal Studies  LL  English 
+Language 
+Teaching  LT Engineering  X 
+Projects  Y 
+Mathematics  Z 
+Industrial  I 
+Management  M 
+General  J 
+Industrial training  W 
+Language  L
+
+Chunk 39:
+20 
+ Credit Rating  
+Each course is also assigned a credit rating, 
+reflecting the academic value of the course and 
+the amount of time a student is expected to 
+devote to that course. The total effective time 
+expected to be spent by an average student for a 
+course in which the a cademic value is one credit is about 50 notional hours  of study time. At the 
+OUSL, the maximum number of credits a 
+student can offer per academic year is limited to 
+thirty eight  (38).  
+The completion of minimum 130 credits is 
+needed to complete the BSE Hons  Degree.  
+ 
+Courses in BSE Hons  
+List of courses available for the BSE Hons programme  is given below.  
+Curriculum for Software Engineering Specialisation  
+ 
+Following three Continuing Education courses are required to pass before the start of the academic 
+year. These courses are in non-GPA  category.  
+ 
+FDE3020 or FDE3023  Empowering for Independent Learning  
+[To be informed]  English for Academic Purposes -EAP
+
+Chunk 40:
+[To be informed]  English for Academic Purposes -EAP  
+MHZ2250  Elementary Mathematics for Computing  
+ 
+Level pre -requisites  
+Level  Requirement  
+3 {FDE3020[CR] or FDE3023 [CR]}, { EAP [CR]or VTL2001}  
+4 {FDE3020[CR] or FDE3023 [CR]}, { EAP [CR]or VTL2001}  
+5, and 6  {FDE3020[P] or FDE3023 [P]}, { EAP [P] or VTL2001}
+
+Chunk 41:
+21 
+ Course  Code and Course Title  Prerequisites  Semester  R
+e
+c
+o
+m
+m
+e
+n
+d
+e
+d  
+ 
+c
+o
+u
+r
+s
+e
+s  
+ 
+f
+o
+r  
+ 
+Y
+e
+a
+r  
+1 Level 3  &  4 – Compulsory courses   
+EEX3467  Software Engineering Concepts 
+and Programming  None  1 
+EEI3346  Web Application Development  None  1 
+EEI3262  Introduction to Object Oriented 
+Programming  None  2 
+EEI3266  Information Systems and Data 
+Management  None  1 
+EEX3373  Communication and Computer 
+Technology  AGM3263 (CR), EEX3467(CR)  1 & 2  
+AGM3263   Communication Skills  None  1 & 2  
+MHZ3459  Basic Mathematics for Computing  MHZ2250(CA)*  1 & 2  
+EEI4346  Web Technology  EEI3346(CR)  2 
+ English for Academic Purposes -
+EAP  None  Prior to Sem 1 & 
+in Sem 1 
+Year 1 Total compulsory course credits: Semester 1 – 15.5 Semester 2 – 9.5 
+Elective courses - Select up to 5 credits  
+*EEI3269  Introduction to Mobile Application 
+Development  None  2 
+**EEM3366  Introduction to Business Studies  None  2 
+EEI3372  Programming in Python   None  1
+
+Chunk 42:
+**EEM3366  Introduction to Business Studies  None  2 
+EEI3372  Programming in Python   None  1 
+Year 1 Total elective course credits: Semester 1 – 3, Semester 2 – 4 
+[CR- Concurrent Registration; P - Pass; CA – Continuous Assessment Pass]  
+ 
+*EEI3269 and LLJ3265 will be made a compulsory course from the year 2025/2026. Therefore, it is 
+strongly recommended that all students register  and learn th ese course s. 
+**EEM3366 is compulsory for those who exit with Diploma
+
+Chunk 43:
+22 
+ Course Code and Course Title  Prerequisites  Semest er 
+Level 4 & 5 – Compulsory courses  
+EEI4267  Requirement Engineering  EEX3467(P)  3 R
+e 
+c 
+o
+m
+m
+e 
+n
+d 
+e 
+d 
+ 
+ f 
+o 
+r  
+ 
+Y 
+e 
+a 
+r 
+ 
+2 EEI4362  Object Oriented Design  EEI3262(CA), EEX3467(CA), 
+Pass in 15 credits  4 
+EEX4465  Data Structures and Algorithms  EEX3373(CA), MHZ4256(CR), 
+Pass in 15 credits  3 
+MHZ4256  Mathematics for Computing  MHZ2250(P)*  3 
+EEI4361  User Experience Engineering  EEX3467(CA), Pass in 15 
+credits  4 
+EEI4366  Data Modelling and Database 
+Systems  EEI3266(CA), Pass in 15 
+credits  4 
+AGM4367  Economics and Marketing for 
+Engineers  Pass in 18 credits at Level 3  4 
+EEY4189  Software Design in Group  EEX3467(P), {EEI3262(CA) or 
+EEI3269(CA)}, Pass in 20 
+credits  at Level 3  3 & 4  
+MHZ4377  Applied Statistics  MHZ3459(CA), Pass in 15 credits 
+at level 3  4 
+EEI5467  Software Testing and Quality 
+Assurance  EEX3467(P), 20 credits pass  3
+
+Chunk 44:
+at level 3  4 
+EEI5467  Software Testing and Quality 
+Assurance  EEX3467(P), 20 credits pass  3 
+Year 2  Total compulsory course credits:  Semester 3 – 12.5, Semester 4 – 15.5  
+Elective courses - Select  up to 5 credits  
+***EEI4369  Mobile Application Development 
+for Android  EEI3269(CR)  3 
+EEX4373  Data Science  EEI4366(CR), EEI3266(CA), Pass 
+in 20 credits  3 
+*LLJ3265  Introduction to Laws of Sri Lanka  None  4 
+ MHJ4271  History of Technology  Pass in 20 credits  3 & 4  
+Year 2 Total elective course credits  Semester 3 – 7,  Semester 4  – 5 
+*** To follow EEI4369 it is necessary to have a computer with special specifications to do the lab 
+work on -line. On -site labs will be held only in weekdays 9am -4pm at Colombo Centre.  
+  Recommended to register only if you have got eligibility (CA) for EEI3269 .
+
+Chunk 45:
+23 
+ Level 5 & 6 - Compulsory  courses  
+EEI5270  Information Security  EEX3467(P), EEX4465(P), pass 
+in 30 credits  5 R
+e 
+c 
+o
+m
+m
+e 
+n
+d 
+e 
+d 
+ 
+ f 
+o 
+r  
+ 
+Y 
+e 
+a 
+r 
+3 MHZ5375  Discrete Mathematics  MHZ4256(CA), MHZ3459(P)  6 
+EEX5563  Computer Architecture and 
+Operating Systems  EEX3373(P) , Pass in 36 credits  5 & 6  
+EEW5811  Industrial Training – Software  EEX3467(P), EEI4362(P), 
+EEX4465(P), Pass in 40 credits  5 & 6  
+CVM5402  Accounting for Engineers  AGM4367(CA), Pass in 30 
+credits  5 & 6  
+EEX5362  Performance Modelling  Pass in 40 credits, EEI3346(P), 
+MHZ4377(P)  6 
+MHJ5372  Technology, Society and 
+Environment  Pass in 45 credits  5 & 6  
+ Level 6 - Compulsory  course to be offered in Year 3  
+EEY6189  Research Methodology and Project 
+Identification  EEX4465(P), Pass in 60 credits  5 
+Year 3  Total compulsory course credits  in Semester 5 – 12.5, Semester 6 – 16.5  
+Elective courses - Minimum 60 credits are required from Levels 5 and 6
+
+Chunk 46:
+Elective courses - Minimum 60 credits are required from Levels 5 and 6  
+#EEX5376  Embedded Systems and Internet of 
+Things  EEI3266(P), EEI3372(P), 
+AGM3263(P), EEX3373(P)  6 
+#EEX5464  Data Communication and 
+Networking  EEX5563 (CR), MHZ5375(CR)  5 & 6  
+EEI5280  Creative Design  Pass in 45 credits  5 
+*#EEI5466  Advanced Database Systems  EEI3266(P), AGM3263(CR)  5 
+Year 3 Total elective course credits in Semester 5 – 8, Semester 6 – 5 
+#For EEX5376  and EEX5464  labs will be held at CRC only.    
+*# Recommended to register only if you have got eligibility (CA) for EEI4366
+
+Chunk 47:
+24 
+ Course  Prerequisites  Semester   
+Level 6 - Compulsory  courses  
+DMM6601   Management for Engineers   CVM5401(CA), pass in 60 
+credits  7 & 8  R
+e
+c
+o
+m
+m
+e
+n
+d
+e
+d 
+ 
+C
+o
+u
+r
+s
+e
+s 
+ 
+f
+o
+r 
+Y
+e
+a
+r 
+ 
+4 EEI6360   Software Project Management  Pass in 60 credits  7 
+EEI6171   Emerging Technologies  Pass in 60 credits  7 
+EEI6567   Software Architecture and 
+Design  EEX3467(P), EEI4362(P)  7 & 8  
+EEM6202   Professional Practice  Pass in 30 credits in level 3, 
+Pass in 24 credits at level 4 or 
+above  8 
+EEX6363   Compiler Construction  EEX4465(P), MHZ53 75 (P), 
+pass in 60 credits  7 & 8  
+EEY6689   Final Project – Software 
+Engineering  EEY6189(CA), EEI6360(CR), 
+EEI6567(CR), Pass in 75 credits  7 & 8  
+Year 4  Total  compulsory course credits  Semester 1 – 14, Semester 2 – 12 
+Elective courses – Minimum 30 credits are required in  Level 6 while  60 credits are required 
+from 5 and 6  
+EEX6340   AI Techniques and Agent 
+Technology  EEX4465(P), EEX3467(P), 
+MHZ53 75(P)  8
+
+Chunk 48:
+EEX6340   AI Techniques and Agent 
+Technology  EEX4465(P), EEX3467(P), 
+MHZ53 75(P)  8 
+EEX6278   Neural Networks and Fuzzy 
+Logic Applications  EEX3467(P), Pass in 65 credits  7 
+Year 4 Total elective course credits  Semester 1 – 2, Semester 2 – 6 
+Special Note – Courses not offered in 202 4/202 5 
+Course code  Course  Title  Prerequisites  
+ EEI3668  Graphic and Interactive Multimedia Design  None  
+#EEY4489  Higher Diploma Project – Software Engineering  Pass in 45 credits  
+EEX6377  Principles and Applications of Data Mining  EEX4465(P), MHZ4377(P), 
+EEI4366(P), Pass in 45 credits  
+# Will be offered only if there is a justification acceptable to the Department for not doing 
+industrial training module
+
+Chunk 49:
+25 
+ All curricula for programmes offered by OUSL will be revised every 5 years. Therefore, 
+current BSEHons curriculum may change in 2025-2026. However, students can obtain the 
+degree award with the current curriculum for 3 more years starting 202 4-2025.   
+Minor changes to few Level 3 courses and many changes for pre -requisites will be enacted 
+from 202 5/202 6 and new compulsory courses will be offered.  
+ 
+Prerequisites  
+To offer courses one has to satisfy the 
+prerequisites for each course. T hese pre -
+requisites are given in the above Table.  
+ 
+Industrial placements  
+It is mandatory for you to complete a 
+minimum period of 6 month Full -Time 
+industrial training  at a software company. 
+From this placement, students gain on -site 
+experience by working alongside professionals 
+and the opportunity to observe good practices as 
+well as developing necessary skills to work as a 
+software engineer.  
+The Department is working closely with the Sri
+
+Chunk 50:
+software engineer.  
+The Department is working closely with the Sri 
+Lanka Association for Software and Service 
+Companies (SLASSCOM) to give you an 
+opportunity to do your training in the best 
+software companies in the country. 
+SLASSCOM has informed its member 
+companies to offer training placements for 
+OUSL students. The University facilitates the 
+process by forwarding student CVs to a number 
+of companies through SLASSCOM. The actual 
+selection criteria are decided by the companies 
+themselves. Generally, this involves a technical 
+test and/or an interview.  SLASSCOM also uses the Future Careers 
+Bridge Challenges 
+(https://www.futurecareersbridge.net/ ) to 
+introduce the basic ICT skills required by the 
+Software Industry.  This program is also used 
+by SLASSC OM to evaluate prospective 
+trainees and employees.  All students are 
+strongly encouraged to register and begin the 
+Basic Challenges as they will prepare you for 
+the BSE Hons  program.
+
+Chunk 51:
+Basic Challenges as they will prepare you for 
+the BSE Hons  program.  
+ 
+Alternatively, if you are already employed or 
+have found a training place ment on your own at 
+a company, discuss with the Manager/CITES. If 
+the credentials of the company are acceptable to 
+the University, you will be allowed to carry out 
+training at the company. To claim an exemption 
+for the training course based on the working 
+experience you have. you need to register for 
+the course EEX5811 industrial Training.
+
+Chunk 52:
+26 
+ Study system  
+The Open University of Sri Lanka conducts the 
+study programmes in distance mode with a 
+strong emphasis on the multimedia instructional 
+materials, printed materials and audio -visual 
+aids. The Faculty of Engineering Technology is 
+a pioneer in the world in de livering engineering 
+courses in the distance mode.   
+Prospective students should understand that the 
+Open University DOES NOT conduct regular 
+Lectures as in traditional institutions.  Students 
+are expected to engage in SELF -LEARNING 
+guided  by the instructi onal material provided.   
+ 
+The central element of self -study is the online 
+class in the Moodle Learning Management 
+System (LMS) and the Study Guides produced 
+by the University, which provide a series of 
+carefully designed activities and self -
+assessment que stions in order to develop critical 
+and creative thinking abilities. In addition, day 
+schools (face -to-face sessions/online interactive
+
+Chunk 53:
+schools (face -to-face sessions/online interactive 
+sessions), laboratory work and seminars will be 
+held.  
+Pre-scheduled day schools are conducted by the 
+academic staff of the Faculty of Engineering 
+Technology, Academic staff of CITES and 
+professionals from the industry. These day 
+schools provide the opportunity for the students 
+to discuss the issues encountered in self -
+learning of a particular course. Facilities 
+available f or self -learning, such as library 
+facilities, Audio -Visual Resource Centre, 
+elementary computer labs, and more can be 
+found in the section Student Services .  
+The online classrooms in the Learning 
+Management System, play a vital role in the 
+distance educati on programmes offered by the 
+university. Each course offered in this study 
+programme has an online classroom which 
+provides access to every registered student over 
+the web. Following are some of the benefits of 
+an online classroom:  
+● access to the latest cou rse information
+
+Chunk 54:
+an online classroom:  
+● access to the latest cou rse information 
+and learning resources  
+● prompt feedback from the course 
+coordinators  
+● peer learning through active 
+participation in group discussions 
+happening in the classroom  
+● online submission of coursework.  
+We recommend strongly that all students make 
+arrangements to have regular access to a 
+computer - as many subjects will involve 
+programming.   Furthermore, having access to a 
+computer will become a necessity during 
+training and internship.  
+ 
+The OUSL facilitates lifelong learning. 
+Therefore, the program mes offered by OUSL 
+open  avenues for everyone, especially for 
+employed persons. Thus,  the University makes 
+every effort to schedule activities during the 
+weekends and public holidays as far as possible. 
+However, certain activities such as laboratory 
+sessio ns and examinations  may have to be 
+scheduled during weekdays . Especially,  on-
+site Continuous Assessment Tests and Final
+
+Chunk 55:
+scheduled during weekdays . Especially,  on-
+site Continuous Assessment Tests and Final 
+Examinations will be held during weekdays.
+
+Chunk 56:
+27 
+ Since the activity schedule is given to the 
+students at the beginning of the academic year, 
+we expect you to plan your work well in 
+advance.  
+Course Activities  
+Each course has different activities. Tutor 
+Marked Assignments (TMAs), Laboratory 
+Work, Mini Projects, Case Studies, Presentation 
+Sessions, Online Quizzes (OQs) and 
+Continuous Assessm ent Tests (CATs) are 
+some. The activities would depend on the 
+course requirements.  
+Assessment  
+Each course in a programme of study is 
+assessed separately. Assessment consists of two 
+components, namely Continuous Assessment 
+and Final Examination. The purpose  of the 
+continuous assessment is to facilitate student 
+learning, which involves activities such as 
+TMAs, laboratory work, Mini Projects, Case 
+Studies, Presentation sessions, OQs, and CATs.  
+ 
+Except for Mathematics courses, all other 
+courses will have at lea st one CA component 
+that is assessed by a viva voce/ (face to face 
+interview online/onsite).
+
+Chunk 57:
+that is assessed by a viva voce/ (face to face 
+interview online/onsite).  
+ 
+Eligibility to sit Final examinations - You must 
+obtain at least 40% for Overall Continuous 
+Assessment Mark (OCAM)  to get eligibility to 
+sit Final exam. Differen t courses have 
+different formulae to calculate the OCAM.  
+  
+ Example - EEX3467  
+If MP >= 40 then  
+X = B(CAT, OQ)* 0.2+ MP * 0.3+ LAB -
+EV*0.3 + AVG(TMA)*0.2;  
+If MP< 40 then X = 0;  
+Two conditions  that need to meet  for eligibility 
+are X >=40 and MP >= 40  
+  
+Here X is the OCAM, MP is the Mini -Project 
+Mark, B(CAT,OQ) means the best of CAT 
+mark or the Online Quiz Mark, LAB -EV is Lab 
+Evaluation, AVG(TMA) is the average of Tutor 
+Marked Assignment (TMA)  
+ 
+In some courses like EEI3262 - the critical 
+component is Lab Tests. Average Lab test 
+marks for 4 lab tests must be > = 40  to gain 
+eligibility.  
+  
+Very important  - there are strict deadlines for 
+submission of Mini project reports, design
+
+Chunk 58:
+Very important  - there are strict deadlines for 
+submission of Mini project reports, design 
+reports etc. Late submissions are not accepted. 
+Even if you bring an excellent Mini -project 
+report after the deadline it will not be accepted.  
+Since there are 6 -7 courses per seme ster, final 
+deadline for submission will be scattered. Just 
+because there is more time before the Eligibility 
+due date, deadlines will not be extended, and 
+you will have to repeat the course if the required 
+assessments are not submitted on time. You are 
+strongly advised to make a  summary 
+timetable of submission dates at the 
+beginning of the course and stick to the 
+stipulated deadlines.
+
+Chunk 59:
+28 
+ To sit Final examination , a student must 
+apply for the Final exam through MyOUSL 
+portal and get a pass mark for OCAM. Al l 
+Final examinations will be done on -site 
+during weekdays as well as weekends.  
+Awarding of the Degree  
+In order to gain the degree, students have to 
+fulfil the minimum credit requirements in each 
+category and obtain 130 credits altogether from 
+level 3 and a bove. However, students cannot 
+claim credits over the maximum limit for each 
+category and should obtain credits subject to the 
+restrictions for levels and categories of the 
+courses. This has been summarised in Table 1.  
+The credit requirement for the Higher  Diploma 
+is summarised in Table 2.  
+Degrees are awarded either with First Class, 
+Second Class (Upper), Second Class (Lower) or 
+Pass. The applicable class will be decided 
+according to the Grade Point Average (GPA  
+) which is computed using the grades obtained  
+for the courses and their credit ratings as shown 
+in the Appendix 2.
+
+Chunk 60:
+for the courses and their credit ratings as shown 
+in the Appendix 2.  
+Grade Point Average (GPA)  
+The GPA shall be computed by considering the 
+courses at levels 4, 5, and 6 totalling to  70 
+credits. In selecting the courses for 70 
+credits the following sequen ce will be 
+followed.  
+(1) Compulsory courses at levels 5 and 6  
+(2) Elective courses at levels 5 and 6 
+(3) Compulsory courses at level 4  In a situation, where exactly seventy (70) 
+credits cannot be obtained, the courses are 
+selected to the nearest value bel ow seventy (70), 
+and the remainder credit is taken as a Part Credit 
+of the next course.  
+The Grade Point Average (GPA) is computed as 
+follows.  
+GPA  
+ 
+Where GPV i = Grade Point Value of course i 
+CR i  = course credit rating of course i 
+ 
+Limits for Exemptions  
+Notwithstanding any exemptions granted for 
+prior qualifications, a student shall acquire, by 
+successful completion in accordance with the 
+Scheme of Assessment, a minimum number of
+
+Chunk 61:
+successful completion in accordance with the 
+Scheme of Assessment, a minimum number of 
+credits as shown below for the awards.   
+For Degree  
+Minimum credit requireme nts a student shall 
+acquire by successful completion in accordance 
+with the Scheme of Assessment for the award 
+of the Honours Degree are as given below.  
+● Level 6 (considering all Categories):  
+15 
+● Levels 5 and 6 (considering all 
+Categories): 30  
+● Levels 5 and 6 (considering X, I, Z and 
+Y   Categories): 20  
+● Total (considering all Categories and 
+all levels from 3 to 6): 65
+
+Chunk 62:
+29 
+  
+For Higher Diploma  in Software 
+Engineering : 
+Minimum credit requirements a student shall 
+acquire by successful completion in accordance 
+with the Scheme of Assessment for the award 
+of the Higher Diploma are as given below.  
+● Level 4 (considering all Categories): 15  
+● Level 4 (considering X and I 
+Categories): 8  
+● Levels 3 and 4 (considering X, I and Z 
+Categories): 20  ● Total (considering all Categories and 
+all levels from 3 to 6): 33  
+For Diploma in Software Development : 
+Minimum credit requirements a student shall 
+acquire by successful completion in accordance 
+with the Scheme of Assessment for the award 
+of the Diploma are as given below.  
+● Level 3 and 4 (considering all 
+Categories): 15  
+● Level 3 (considering X and I 
+Categories): 7  
+ 
+ 
+Table 1 - Course credits requirements for the Award of the Bachelor of Software 
+Engineering Honours Degree  
+Category  Minimum credits  Maximum credits  
+Industrial (I)  65 
+subject to a minimum of 30
+
+Chunk 63:
+Category  Minimum credits  Maximum credits  
+Industrial (I)  65 
+subject to a minimum of 30 
+credits being at levels 5 and 
+6, of which minimum of 15 
+credits at level 6  80 
+subject to a minimum of 30 
+credits being at levels 5 and 6, of 
+which minimum of 15 credits at 
+level 6  Engineering (X)  
+Management (M)  17, subject to a minimum of 
+12 at levels 5 or above  30, subject to a minimum of 12 
+at levels 5 or above  
+General (J)  5 20 
+Mathematics (Z)  12, subject to a minimum of 
+3 at levels 5 or above  21, subject to a minimum of 3 at 
+levels 5 or above  
+Project (Y)  8 
+subject to a minimum of 6 
+credits being at level 6  12 
+subject to a minimum of 6 
+credits being at level 6  
+Language (L)  0 4 
+Industrial Training (W)  8 8 
+Total  130  
+subject to a minimum of 60 credits being at levels 5 and 6, of 
+which at least 30 credits at level 6.
+
+Chunk 64:
+30 
+ Table 2 - Course credits requirements for the Award of the Higher Diploma in 
+Software Engineering  
+Category  Minimum credits  Maximum credits  
+Industrial (I)  30 
+  at levels 3 and 4, of which 
+minimum of 15 credits at 
+level 4  44 
+subject to a minimum of 30 
+credits being at levels 3 and 4, of 
+which minimum of 15 credits at 
+level 4  Engineering (X)  
+Management (M)  5, at levels 3 or 4  10, subject to minimum 5 at 
+levels 3 or 4  
+General (J)  2 9 
+Mathematics (Z)  9, at levels 3 or 4  12, at levels 3 or 4  
+Project* (Y)  
+5 9 
+Industrial Training* (W)  
+Language  0 4 
+Total  65, subjected to a minimum of 30 at level 4  
+*Only those who cannot complete Industrial Training will be offered the Higher Diploma Project  
+ 
+Table 3 - Course credits requirements for the Award of the Diploma in Software 
+Development   
+(Can request only if a student wish es to exit from the degree programme)  
+Category  Minimum credits  Maximum credits  
+Industrial (I)  14, at level 3
+
+Chunk 65:
+Category  Minimum credits  Maximum credits  
+Industrial (I)  14, at level 3  
+ 25 subject to minimum of 
+14 at level 3 or above  
+ Engineering (X)  
+Management (M)  5, at level 3  8 subject  to minimum of 5 
+at level 3 or above  
+Mathematics (Z)  0 6 
+Language (L, E)  0 4 
+Total  30
+
+Chunk 66:
+31 
+ A candidate who fulfils the requirements for the award of the Diploma in  Software 
+Development  shall receive the award on the agreement that he/she cancels his/her 
+registration  for the Programme of Study leading to the Degree of Bachelor of Software 
+Engineering Honours .  
+ 
+Compulsory courses  for the Award of Diploma in Software Development  
+ 
+Course  Pre-requisites  
+Level 3  
+AGM3263   Communication Skills  None  
+EEI3346  Web Application Development  None  
+EEI3262  Introduction to Object Oriented Programming  None  
+EEI3266  Information Systems and Data Management  None  
+EEX3373  Communication and Computer Technology  AGM3263 (CR), EEX3467(CR)  
+EEX3467  Software Engineering Concepts and 
+Programming  None  
+EEM3366  Introduction to Business Studies  None  
+ 
+Future career  
+When you graduate from the BSE Hons  degree 
+programme, you are armed with a degree as 
+well as experience in the industry, so you can 
+embark on your career with confidence. Your
+
+Chunk 67:
+well as experience in the industry, so you can 
+embark on your career with confidence. Your 
+career path, starting from Software Engineer  or 
+an AI/Machine Learning engineer , can go up to 
+Tech Lead, and then t o Project Manager or 
+Software Architect depending on whether you 
+choose to embark in a management or technical 
+career. You can also start as a Tester or Quality 
+Assurance (QA) Engineer and go up to QA 
+Lead and then onto QA Manager or Quality 
+Analyst.  
+ Stud ent services  
+Student Affairs Division  
+The Student Welfare Division maintains 
+personal and academic records of all OUSL 
+students. Any change of address, medium of 
+study, study centre, civil status, change of 
+courses, etc., should be immediately informed 
+in writing to:  
+Senior Assistant Registrar,  
+Student Welfare Division,  
+The Open University of Sri Lanka,  
+P. O. Box 21,  
+Nawala, Nugegoda - 10250   
+When writing the letter, your name, registration 
+number and the programme of study must be
+
+Chunk 68:
+32 
+ indicated  with your conta ct details such as 
+email and/or phone number .  
+You are required to provide your contact 
+numbers  and email address  to our Programme 
+Coordinator at the BSE Hons  office. Any 
+changes to your personal information must also 
+be immediately informed to the Programme 
+Coordinator as well.  
+Counselling  
+General counselling by the staff of the 
+BSEHons  programme on academic matters is 
+available to all prospective applicants a nd 
+students. You can contact the BSE Hons  office 
+for this purpose Further, Programme 
+Coordinator/ BSE Hons  programme may be 
+contacted for all non -academic matters. 
+(Helpdesk: Helpdesk.openlearn.lk; Email: 
+bseinfo@ousl.l k) Computer Laboratories in Regional 
+and Study Centres  
+To facilitate participation of students in post -
+secondary online education, computer 
+laboratories are available at many  Regional and 
+Study centres free of charge. They are located 
+at the existing OUSL Regional /Study  centres.
+
+Chunk 69:
+Study centres free of charge. They are located 
+at the existing OUSL Regional /Study  centres. 
+These labs are equipped with all modern state -
+of-the art equipment necessary for online 
+education, such as an average 25 computers, 
+printers, scanners, video conferencing facilities, 
+wireless access, faxes and photocopying 
+machines.  All OUSL students are entitled to use 
+these facilities free of charge, though a monthly 
+time quota is enforced.  Table 3 shows the list of 
+Regional and Study Centres of OUSL. Regional 
+centres are denoted by number ‘0’ at the end of 
+centre code.  
+ 
+Table 3 – Regional and Study Centres  of OUSL  
+ 
+Centre  Code   Centre  Code   Centre  Code  
+Kandy  CP20   Kilinochchi  NP42   Galle  SP32  
+Hatton  CP21   Mullaitivu  NP43   Ambalantota  SP33  
+Matale  CP  Mannar  NP44   Badulla  UP80  
+Batticaloa  EP60   Kurunegala  NW70   Bandarawela  UP81  
+Ampara  EP61   Puttalam  NW71   Monaragala  UP82  
+Trincomalee  EP62   Naththandiya  NW73   Colombo  WP10
+
+Chunk 70:
+Trincomalee  EP62   Naththandiya  NW73   Colombo  WP10  
+Anuradhapura  NC50   Ratnapura  SG90   Gampaha  WP11  
+Polonnaruwa  NC51   Kegalle  SG91   Kalutara  WP12  
+Jaffna  NP40   Matara  SP30     
+Vavuniya  NP41   Ambalangoda  SP31
+
+Chunk 71:
+33 
+ Library Facilities  
+Students have access to the main library of the 
+University at Nawala, Colombo and the four 
+regional libraries at Anuradhapura, Batticaloa, 
+Jaffna, Kandy and Matara Regional Centres. 
+The main library is well stocked, but lending 
+facility to students is limi ted to two books at a 
+time, and requires a deposit. It is open 
+throughout the year except on the seven 
+"University Holidays" and a few days during 
+the Sinhala and Tamil New Year and 
+Christmas. The main library has an Audio -
+Visual Resource Centre (AVRC) wit h a 
+substantial collection of video and audio 
+material in many subject areas for the use of 
+students. Access to internet, WiFi coverage and 
+photocopying facilities are also available. The study centres also have a small collection of 
+books, and audio - visual material, mainly for 
+reference.  
+Temporary Residential Facilities 
+(TRF)  
+The University provides temporary residential 
+facilities at Colombo, Kandy and Matara
+
+Chunk 72:
+(TRF)  
+The University provides temporary residential 
+facilities at Colombo, Kandy and Matara 
+Regional Centres for a limited number of 
+students attending approved academic 
+activities. When requesting for temporary 
+residential facility you have to get the TRF form 
+certified by the relevant academic coordinator 
+or a senior academic staff member from the 
+relevant department by producing your student 
+record book.
+
+Chunk 73:
+34 
+ Appendix 1  
+Exemptions applicable for Bachelor of Software Engineering Study Programme  
+Qualifications in English Language  
+Qualification  Course 
+exempted  
+1. Bachelor’s Degree/ Postgraduate Diploma/ Master’s Degree in English 
+medium  
+2. UTEL score of not less than band 6.00 in all 4 skills  
+3. IELTS overall score of at least 5.0 (academic) or 5.5 (general) with not 
+less than 4.00 in writing  
+4.  TOEFL  
+• Paper based overall score of at least 450 with 3.5 in writing  
+• Computer based overall score of at least 200 with 3.5 in writing  
+• Overall score  of at least 90 and writing score of 20 marks and above in 
+the internet -based test  
+5.  Students who have completed their Advanced Level Examination in 
+English medium.  
+6. Students who have completed London A/L (Edexcel or Cambridge) in 
+English medium.  
+7.  Nationa l College of Education – National Diploma in Teaching 
+(English) conducted and awarded by the NIE  
+8.  Higher National Diploma in English (SLIATE)
+
+Chunk 74:
+(English) conducted and awarded by the NIE  
+8.  Higher National Diploma in English (SLIATE)  
+9.  Diploma in English from a recognized university  
+10. Diploma in Library and Information Science (in the English medium) 
+conducted by the Sri Lanka Library Association .  
+11. English as a subject at the G.C.E. Advanced Level (Not General English)  
+12. Diploma in English Language and Literature and Advanced Certificate  
+in English conducted by Department of Language  Studies.  
+13. National Diploma in Technology (NDT) – Institute of Technology 
+University of Moratuwa  EAP  
+ 
+ 
+The recommended exemptions in the next page are granted to the students who have 
+satisfied the admission requirement to the Programme of Study.
+
+Chunk 75:
+35 
+ Qualification  Courses Exempted  
+Combine Mathematics or Pure Mathematics passed at 
+GCE A/L  MHZ2250  
+[Higher] Diploma in Technology (OUSL) Civil, Textile, 
+Agriculture  VTI3F00, MHZ3459  
+[Higher] Diploma in Technology (OUSL) Electrical, 
+Electronics, Mechanical, Mechatronics  VTI3F00, MHZ3459, EEX3373  
+Diploma in Technology (OUSL) Computer  VTI3F00, MHZ3459, EEX3373, 
+EEX3467, EEX4465  
+BSc/BA or equivalent University degree (except 
+specialisation in Computing)  VTI3G00  
+BCS (British Computer Society) Certificate  VTI3F00, EEX3467  
+CMA (Certified Management Accountants) – Stage I or II  VTI3G00  
+CIMA (Chartered Institute of Management Accountants) 
+- Stage I or II  VTI3G00  
+IBSL (Institute of Bankers of Sri Lanka) Certificate or 
+Advance Certificate in Banking and Finance  VTI3G00  
+NIBM (National Institute of Business Management) 
+Diploma in Computer System Design (DCSD) (from 
+2010)  VTI3F00, EEI3346, EEI3266, EEI3262, 
+EEX3373, EEX3467, EEI4362
+
+Chunk 76:
+2010)  VTI3F00, EEI3346, EEI3266, EEI3262, 
+EEX3373, EEX3467, EEI4362  
+NIBM (National Institute of Business Management) 
+Higher Diploma in Computer Based Information 
+Systems (HDCBIS) (from 2010)  EEI3269, EEI4346, ECI4366, EEX4465, 
+EEI4369, EEY4189, VTI3F00  
+NDT (National Diploma in Technology) Electr onic & 
+Telecom or NDES (National Diploma in Engineering 
+Sciences) (Old curriculum)  VTI3G00, MHZ3459, EEX3373  
+NDICT (National Diploma in Information and 
+Communication Technology)  VTI3F00, EEX3373  
+Diploma in System Design and Programming, 
+Vocational Traini ng Authority (VTA)  VTI3F00, EEX3373  
+OUSL Faculty of Engineering Technology MHZ3530 or 
+MHZ3531  MHZ3459
+
+Chunk 77:
+36 
+ Course Exemptions  
+Qualification  Courses 
+Exempted  
+OUSL Faculty of Engineering Technology MHZ3531 or EEZ3561  MHZ3459  
+OUSL Faculty of Engineering Technology EEX3465 or EEX3467 (DIST)  EEX3467  
+OUSL Faculty of Engineering Technology EEI3364 or EEI3346 (DIST)  EEI3346  
+OUSL Faculty of Engineering Technology EEX3262 or EEI3262 (DIST)  EEI3262  
+OUSL Faculty of Engineering Technology EEI3566 or EEI3266 (DIST)  EEI3266  
+OUSL Faculty of Engineering Technology EEI3368 or EEI3668 (DIST)  EEI3668  
+OUSL Faculty of Engineering Technology EEI3369 or EEI3269 (DIST)  EEI3269  
+OUSL Faculty of Engineering Technology EEM3466 or EEM3366 (DIST)  EEM3366  
+OUSL Faculty of Engineering Technology MHZ4530  MHZ3459  
+OUSL Faculty of Engineering Technology EEX3533 or EEX3336  EEX3373  
+OUSL Faculty of Engineering Technology EEX3363 (DIST)  EEX3373  
+OUSL Faculty of Engineering Technology EEX4535  EEX4465  
+OUSL Faculty of Engineering Technology EEX4547 or EEX3517or 
+EEX3417  EEX3467
+
+Chunk 78:
+OUSL Faculty of Engineering Technology EEX4547 or EEX3517or 
+EEX3417  EEX3467  
+OUSL Faculty of Engineering Technology EEX5536 and ECX5535  EEX5563  
+AAT - Association of Accounting Technicians (Sri Lanka) - Stage II or III  VTI3G00
+
+Chunk 79:
+37 
+ Appendix 2  
+Scheme of Assessment  
+Below given information are extracted from the Regulation applicable to Bachelor of Software 
+Engineering Honours degree programme.  
+5.1. The Overall Assessment Mark (Z%) of a student in respect of any course, other than training 
+courses shall be based on the Overall Continuous Assessment Mark (X%) and the mark 
+obtained at the Final Examination (Y%) and shall be computed as follows:  
+if Y ≥ 40 and X≥40  then Z = (0.5 X + 0.5Y)  
+if Y < 40,  then Z = Y  
+ 
+5.2  The Overall Assessment Mark (Z%) of the Industrial training courses shall be based only  
+on the marks obtained at the final examination (Z = Y)  
+5.2.1  The assessment of Industrial training courses shall be carried out in accorda nce with 
+the faculty  approved guidelines, by an Assessment Panel appointed by the Board of 
+the Faculty of Engineering Technology and approved by the Senate.  
+5.2.2  The Overall Assessment Mark (Z%) of a student in respect of a course offered by any
+
+Chunk 80:
+5.2.2  The Overall Assessment Mark (Z%) of a student in respect of a course offered by any 
+other Faculty of The Open University of Sri Lanka, except Faculty of Engineering 
+Technology, shall be determined by the relevant Faculty offering the course, with the 
+approval of the Senate.  
+5.3 Each student who sits for the Final Examination of a course s hall be awarded a grade in 
+respect of such course based on the Overall Assessment Mark (Z%), as specified in Schedule 
+2 of this Regulation and a Grade Point Value (GPV) shall be awarded in accordance with 
+Section 5.5  in Part V of the By -Law No. 21.  
+ 
+Schedu le – 2 in Regulation  
+In the Table below,  A+, A, A -, B+, B, B -, C+, and C, constitute Pass grades.
+
+Chunk 81:
+38 
+ Calculation of Grade Point value from Grades  
+Overall Assessment Mark (Z%)  Grade  Grade point value 
+(GPV)  
+85-100                    A+ 4.0 
+75-84                    A 4.0 
+70-74                    A- 3.7 
+63-69                    B+ 3.3 
+55-62                    B 3.0 
+50-54                    B- 2.7 
+45-49                    C+ 2.3 
+40-44                    C 2.0 
+35-39                    C- 1.7 
+30-34                    D+ 1.3 
+20-29                    D 1.0 
+0-19                    E 0.0 
+ 
+Part VI - Award of the Degree of Bachelor of Software Engineering Honours  
+6.1 A candidate eligible for the Award of Degree of Bachelor of Software Engineering Honours 
+in accordance with this Regulation shall supplicate for the same to the Deputy Registrar/ 
+Senior Assistant Registrar/ Assistant Registrar of Examinations before the date as 
+determined by the university on the prescr ibed form.
+
+Chunk 82:
+determined by the university on the prescr ibed form.  
+6.2 A candidate who satisfies the requirements for the award of Degree of Bachelor of Software 
+Engineering Honours shall be awarded such Degree with Pass, Second Class (Lower 
+Division), Second Class (Upper Division) or First Class provided he/she sa tisfies the 
+requirements specified in Sections 6.8, 6.9, 6.10 and 6.11 respectively in this Regulation, 
+within such period specified in Section 6.4 of this Regulation.  
+6.3 -   
+6.4 A candidate shall acquire the course credit requirement as specified in Sections 6.2  and 6.3 
+of this Regulation within a minimum period of four (04)  academic years and a maximum 
+period of twelve (12) consecutive academic years from the date of his/her first registration 
+considered for the award of the Degree  of Bachelor of Software Engine ering Honours. 
+However, the students who receive course exemptions shall be exempted from the specified
+
+Chunk 83:
+However, the students who receive course exemptions shall be exempted from the specified 
+minimum period for the completion of the study Programme.  
+6.5 -
+
+Chunk 84:
+39 
+ 6.6 - 
+6.7 - 
+6.8 A student shall be awarded a Pass in the Degree of Bachelor of Software Engineering 
+Honours, if he/she has,  
+6.8.1  Obtained a minimum of one hundred and thirty (130) course credits from  
+The Levels 3, 4, 5 and 6 of the Programme  of Study as specified in Table 1 of this 
+Regulation with a GPA of 2.00 or above, in accordance with the Section 6.8.2 and 
+Section 6.8.3.  
+ 
+ 6.8.2  The course credits as specified in Section 6.8.1 shall not exceed the maximum course 
+credits specified for a Category as specified in Table 1 of this regulation. If a student 
+has obtained course credits in excess of the maximum specified for a Course Category, 
+the excess course credits shall not be considered when computing the total credits. 
+Such excess course credits shall be eliminated by considering Level 3 courses first and 
+then Levels 4, 5 and 6. In do ing so, it shall be ensured that the maximum possible
+
+Chunk 85:
+then Levels 4, 5 and 6. In do ing so, it shall be ensured that the maximum possible 
+credits are counted in each category. Such eliminated courses shall not be in the 
+compulsory course combinations shown in Schedule 1(a) of this Regulation.  
+ 
+ 6.8.3  The acquisition of the required cours e credits shall be subjected to the restrictions laid 
+down in Schedule 1(d) of this Regulation, which specifies certain combinations of 
+courses as being “Excluded Combination of Courses”.  
+6.9  A student shall be awarded Second Class (Lower Division) in Bac helor of Software 
+Engineering Honours if he/she has obtained a Pass in accordance with the Section 6.8 above 
+with a GPA of 3.00 or above,  
+6.10 A student shall be awarded Second Class (Upper Division) in Bachelor of Software 
+Engineering Honours, if he/she has obtained a Pass in accordance with the Section 6.8 above 
+with a GPA of 3.30 or above, and,
+
+Chunk 86:
+with a GPA of 3.30 or above, and,  
+6.11  A student shall be awarded First Class in Bachelor of Software Engineering Honours if 
+he/she has, obtained a Pass in accordance with the Section 6.8 above with a GPA of 3.70 or 
+above.
+
+Chunk 87:
+40 
+ IMPORTANT  
+ 
+Please note that only full qualifications are considered, and part qualifications will not be accepted. 
+You are advised to check your qualifications with relevant departments and apply only if necessary.  
+ 
+The following docume nts must be attached to the Application Form:  
+Certified copies of all Educational/Professional Qualifications  
+Certified copies of the Syllabi of each subject of the course/programme to be evaluated  
+Certified copies of past papers of each subject of the cou rse /programme to be evaluated  
+Handbook (Student Guidebook) of the Institution from which each qualification has been 
+obtained  
+Note: Please note that applicant should provide certified English translations if the originals are in 
+any other language.  Appendix 3 
+ 
+Application for Evaluation of Qualifications for Exemptions  
+ 
+Who needs to apply for Evaluation of Qualifications?
+
+Chunk 88:
+Who needs to apply for Evaluation of Qualifications?  
+      Only those who possess qualifications NOT listed in the Student Guidebook 202 4/25 need to apply.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The completed application form with relevant documents must be submitted to the Director, Centre 
+for IT Education Services (CITES), The Open University of Sri Lanka, Nawala, Nugegoda as early as 
+possible. Applications received after October  24, 202 4 or incomplete applications will not be 
+processed . 
+ 
+Exemption Application deadline  24th October  2024. 
+ 
+If you apply for Evaluation of Qualifications, please remember to ask at the registration counter 
+whether you have been granted additional exemptions, when you come for document verification.  
+ 
+Note: The exemption form can be downloaded from the faculty webpage: 
+http://www.ou.ac.lk/bsehons/   under Exemptions  tab.
+
+Chunk 89:
+41
+
+Chunk 90:
+42 
+ Appendix 4 
+Bachelor of Software Engineering Honour Degree Programme - 202 4/202 5: 
+Counselling form for New Students  
+ 
+Name       :..............................................…………………………………………………………………………………………….  
+Registration No:  ………………………………       E-Mail: ………………………… ………………………………….…  
+Telephone No: …………………………………      Center: ………………………………………………………………….  
+Home Address        : …………………………………………………………………………………………………………….…  
+Instruction  
+·      Please mark “X” for the courses that you wish to register for the current academic year . 
+·      It is compulsory to complete and produce this form at the registration.  
+ 
+StART@OUSL  
+The Common induction programme referred to as “StART@OUSL” (Student Academic Readiness Training 
+programme) will be offered to all new registration students. Stude nts must take the two compulsory 
+courses listed in the following table.  
+  
+Course Code  Course Title  I wish to register (Yes/No)
+
+Chunk 91:
+Course Code  Course Title  I wish to register (Yes/No)  
+FDE302 3 Empowering for Independent Learning (E fIL)  
+[To be informed]  English for Academic Purpose (EAP)   
+MHZ2250  Elementary Mathematics for Computing   
+ 
+Offered Courses in BSEHons Programme  
+Course 
+Code  Course Title  Prerequisites  Semester  I wish to 
+Register  
+Year  1 - Compulsory courses  
+EEX3467  Software Engineering Concepts and 
+Programming  None  1   
+EEI3346  Web Application Development  None  1   
+EEI3266  Information Systems and Data 
+Management  None  1   
+EEX3373  Communication and Computer 
+Technology  AGM3263 (CR), 
+EEX3467(CR)  1 & 2    
+MHZ3459  Basic Mathematics for Computing  None  1 & 2
+
+Chunk 92:
+43 
+ EEI3262  Introduction to Object Oriented 
+Programming  None  2   
+EEI4346  Web Technology  EEI3346(CR)  2   
+AGM3263  Communication Skills  None  1 & 2    
+Year 1 Total compulsory course credits Semester  1 – 13.5 Semester 2 – 9.5 
+Year 1 Elective courses - Select up to 7 or 8 credits  
+*EEI3269  Introduction to Mobile Application 
+Development  None  2   
+EEI3372  Programming in Python  None  1   
+ LLJ3265  Introduction to Laws in Sri Lanka  None  2   
+**EEM3366  Introduction to Business Studies  None  2   
+ *EEI3269 will be made a  compulsory course from the  Year 2025/2026. For all students it is 
+strongly recommended to study this course.  
+** recommended only if you wish to exit from diploma or Higher Diploma  
+In case you have obtained exemptions for above courses, please write courses in Level 4 that you wish to 
+register.  
+Course Code  Course Title  Course Code  Course Title  
+        
+        
+        
+I understand and accept the following conditions:
+
+Chunk 93:
+I understand and accept the following conditions:  
+1. The medium of instruction is English. All answers to assignments, exam papers must be written in 
+English.  
+2. The program includes a compulsory, 6 -month full time on -site industrial training module in 
+Software Development  
+3. Final Examinations and Continuous Assessment Tests, Project Vivas and some Laboratory Tests 
+will be conducted ON -SITE and will be scheduled on WEEKDAYS as well as WEEKEND.  
+ ………………………………………                                ……..…………………………………………………………………..  
+   Signature of the Student &  Date                                Signature of the Academic Counsellor  & Date
+
+Chunk 94:
+44
+
