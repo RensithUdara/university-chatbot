@@ -138,7 +138,6 @@ def answer_query(query):
                     pseudo_doc = {"page_content": " ".join(cluster_questions), "metadata": {"source": f"cluster_{cluster_id}"}}
                     vectorstore.add_texts([pseudo_doc["page_content"]], metadatas=[pseudo_doc["metadata"]])
             with open(os.path.join(data_dir, "clusters.pkl"), "wb") as f:
-                pickle.dump({"labels": labels, "kmeans": kmeans}, f)
         
         return response
     except Exception as e:
