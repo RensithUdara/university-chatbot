@@ -9,7 +9,6 @@ __pycache__/
 *$py.class
 
 # IDE and editor files
-.vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
@@ -40,7 +39,6 @@ build/
 *.whl
 
 # Environment and configuration files
-.env
 *.env
 config.ini
 
@@ -49,3 +47,5 @@ config.ini
 *.swp
 *.tmp
 temp/
+config.bat
+node_modules
